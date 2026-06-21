@@ -1,0 +1,3 @@
+pycryptodome
+filetype
+psutil
