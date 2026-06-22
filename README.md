@@ -1,4 +1,16 @@
 # Xiaomi Private Album Decryptor
+# Xiaomi Private Album Decryptor
+
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Files Recovered](https://img.shields.io/badge/Files_Recovered-679-success)
+![Success Rate](https://img.shields.io/badge/Success_Rate-100%25-brightgreen)
+![Release](https://img.shields.io/badge/Release-v1.0.0-orange)
+
+> Recover Xiaomi/POCO Gallery private album backups (.lsa/.lsav) with support for large files, resume functionality, reporting, and low-memory processing.
+
+
+> Recover Xiaomi/POCO Gallery private album backups (.lsa/.lsav) with support for large files, resume functionality, reporting, and low-memory processing.
 
 A Python utility for recovering photos and videos from Xiaomi/POCO Gallery private album backups (.lsa and .lsav).
 
@@ -48,33 +60,53 @@ if not
 just search .lsa in search of internal storage and get the location
 
 step 2 
+once check for python version<img width="926" height="597" alt="last" src="https://github.com/user-attachments/assets/cd45f8cb-9ce8-4835-8ab1-068325b49eef" />
+
+<img width="1531" height="975" alt="python ver" src="https://github.com/user-attachments/assets/0b9f8498-d7ec-40f6-987d-63485caed328" />
+
+get the zip file in computer <img width="1452" height="1001" alt="7zip" src="https://github.com/user-attachments/assets/55c87e59-ee3a-480c-95ca-7576704531e0" />
 
 
-get the zip file in computer <img width="685" height="292" alt="screenshot" src="https://github.com/user-attachments/assets/1c48d39a-3114-4a32-a47c-377c56666c3e" />
  unzip file
  it may show error if the fie size is big if it does
  try opening it with 7 zip application
+
+ <img width="1404" height="831" alt="filemanager" src="https://github.com/user-attachments/assets/e0f459dd-f81b-4403-85c1-24b414a07477" />
 download the python file xiaomi_decrypt_adi_v1.0.0_github.
 
 step 3
-before in cmd 
-Install Required Libraries
+ open cmd in targeted location
+Install Required Libraries<img width="922" height="612" alt="require " src="https://github.com/user-attachments/assets/d80aced5-11f0-4d45-9d93-ec12daf954f0" />
+
 Open Command Prompt inside the project folder.
 Run:
 pip install -r requirements.txt
+<img width="1237" height="690" alt="cmd after error" src="https://github.com/user-attachments/assets/14542999-3594-4a65-ab45-d7dcb1c4f472" />
+
+if error occurs check whetther requirements.txt in present in same folder
 Expected output:
 Successfully installed pycryptodome filetype psutil
+<img width="1237" height="707" alt="error" src="https://github.com/user-attachments/assets/535904d2-a091-4a54-be71-6f1762067d69" />
+
 
 step 4
+<img width="1608" height="1045" alt="lsa files" src="https://github.com/user-attachments/assets/44751092-f6db-4709-960d-89c1b8a97182" />
 
 Run The Script
 Open Command Prompt in the project folder.
 Run:
 python xiaomi_decrypt_adi_v1.0.0_github.py "C:\Backup\secretAlbum"
+<img width="1531" height="975" alt="python ver" src="https://github.com/user-attachments/assets/041a3d55-bf1e-4346-a49b-1b26ec1f839a" />
+<img width="1919" height="1079" alt="processing1" src="https://github.com/user-attachments/assets/2da02070-96f8-42f8-9ced-c4f62b2ded4e" />
+<img width="1177" height="744" alt="processing" src="https://github.com/user-attachments/assets/b1339f9f-0e28-4290-952b-ecb63ea9f923" />
+
+
 Replace the path with your own backup location.
 
  step 5
  Wait For Processing
+<img width="973" height="726" alt="last 2" src="https://github.com/user-attachments/assets/bc0db975-542b-41b1-87c5-0bbabe805011" />
+<img width="926" height="597" alt="last" src="https://github.com/user-attachments/assets/5d35e713-f52f-4776-a27d-4be5420bd224" />
 
 The script will automatically:
 ✅ Scan folders
@@ -86,6 +118,7 @@ The script will automatically:
 
 Progress will appear in the terminal.
 
+<img width="973" height="726" alt="last 2" src="https://github.com/user-attachments/assets/6d2d6b65-2429-4abd-a7f8-349eea16b85b" />
 
 step 6
 Check Results
@@ -105,9 +138,8 @@ recovery_report.csv
 | recovery_summary.json | Summary statistics      |
 | recovery_report.csv   | Per-file results        |
 
+<img width="601" height="174" alt="sucess" src="https://github.com/user-attachments/assets/df60b071-69b6-49b4-91da-e24338f3139a" />
 
-<img width="601" height="174" alt="Screenshot 2026-06-21 150821" src="https://github.com/user-attachments/assets/8d8348bf-e051-4767-9bc2-246aba70f56d" />
-<img width="429" height="77" alt="Screenshot 2026-06-21 135921" src="https://github.com/user-attachments/assets/2a79752a-ba46-4af0-824a-ffaac73a0841" />
 
 ERRORS
 
