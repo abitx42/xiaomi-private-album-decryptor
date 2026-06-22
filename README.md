@@ -1,5 +1,4 @@
 # Xiaomi Private Album Decryptor
-# Xiaomi Private Album Decryptor
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -7,32 +6,17 @@
 ![Success Rate](https://img.shields.io/badge/Success_Rate-100%25-brightgreen)
 ![Release](https://img.shields.io/badge/Release-v1.0.0-orange)
 
-> Recover Xiaomi/POCO Gallery private album backups (.lsa/.lsav) with support for large files, resume functionality, reporting, and low-memory processing.
+> Recover Xiaomi/POCO Gallery private album backups (.lsa/.lsav) with support for large files, resume functionality, reporting, and low-memory processing
+
+-This tool was tested on a real Xiaomi/POCO private album backup
+-
+
+<img width="601" height="174" alt="sucess" src="https://github.com/user-attachments/assets/3c684493-b7b0-40ea-97a0-1963fdaeaed2" />
 
 
-This tool is intended only for recovering backups and files you own or are authorized to access
-## 🚀 Real-World Recovery Demo
 
-This tool was tested on a real Xiaomi/POCO private album backup.
-
-| Metric | Result |
-|----------|----------|
-| Files Recovered | 679 |
-| Success Rate | 100% |
-| Backup Size | ~26 GB |
-| Recovery Time | ~190 seconds |
-| Errors | 0 |
-
-### Final Output
-
-```text
-Total   : 679
-OK      : 679
-Skipped : 0
-Errors  : 0
-Time    : 190.1s
-Output  : C:\poco backup\secretAlbum\DECRYPTED
-<img width="601" height="174" alt="sucess" src="https://github.com/user-attachments/assets/3b3d58f0-b6aa-4708-a005-df3e9350ba42" />
+-Successfully recovered 679 encrypted files from a Xiaomi private album backup with zero errors.
+-
 
 A Python utility for recovering photos and videos from Xiaomi/POCO Gallery private album backups (.lsa and .lsav).
 
