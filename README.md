@@ -236,3 +236,21 @@ Run Command Prompt as Administrator.
 
 ------This tool is intended only for recovering backups and files you own or are authorized to access------
 -
+## Author
+
+**Aditya Bodake**
+
+GitHub: [@abitx42](https://github.com/abitx42)
+
+Engineering student exploring AI, automation, and real-world problem solving through hands-on projects.
+
+---
+
+## License
+
+-This project is licensed under the MIT License.
+
+## Acknowledgements
+
+This project was developed through an AI-assisted + HUMAN  workflow involving research, testing, debugging, validation, and optimization.
+STILL LEARNING THANK YOU..
