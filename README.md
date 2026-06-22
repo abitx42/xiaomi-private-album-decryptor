@@ -10,7 +10,29 @@
 > Recover Xiaomi/POCO Gallery private album backups (.lsa/.lsav) with support for large files, resume functionality, reporting, and low-memory processing.
 
 
-> Recover Xiaomi/POCO Gallery private album backups (.lsa/.lsav) with support for large files, resume functionality, reporting, and low-memory processing.
+This tool is intended only for recovering backups and files you own or are authorized to access
+## 🚀 Real-World Recovery Demo
+
+This tool was tested on a real Xiaomi/POCO private album backup.
+
+| Metric | Result |
+|----------|----------|
+| Files Recovered | 679 |
+| Success Rate | 100% |
+| Backup Size | ~26 GB |
+| Recovery Time | ~190 seconds |
+| Errors | 0 |
+
+### Final Output
+
+```text
+Total   : 679
+OK      : 679
+Skipped : 0
+Errors  : 0
+Time    : 190.1s
+Output  : C:\poco backup\secretAlbum\DECRYPTED
+<img width="601" height="174" alt="sucess" src="https://github.com/user-attachments/assets/3b3d58f0-b6aa-4708-a005-df3e9350ba42" />
 
 A Python utility for recovering photos and videos from Xiaomi/POCO Gallery private album backups (.lsa and .lsav).
 
