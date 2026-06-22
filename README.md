@@ -105,19 +105,23 @@ step 3
 
 -Run The Script
 -check once if lsa files are present in coreect path as displayed on cmd
+
+
 <img width="1608" height="1045" alt="lsa files" src="https://github.com/user-attachments/assets/44751092-f6db-4709-960d-89c1b8a97182" />
 
 
 -Open Command Prompt in the project folder.
 -Run:
 python xiaomi_decrypt_adi_v1.0.0_github.py "C:\Backup\secretAlbum"
+-Replace the path with your own backup location.
 
-<img width="1919" height="1079" alt="processing1" src="https://github.com/user-attachments/assets/9141bfd1-85c3-49eb-bce6-5317c199e255" />
-<img width="1919" height="1079" alt="processing1" src="https://github.com/user-attachments/assets/be5c3434-ad38-42a7-bc3f-15840e9790a9" />
 <img width="1177" height="744" alt="processing" src="https://github.com/user-attachments/assets/0eae681e-7bb1-4748-9ba7-f1edb1341595" />
 
 
--Replace the path with your own backup location.
+<img width="1919" height="1079" alt="processing1" src="https://github.com/user-attachments/assets/be5c3434-ad38-42a7-bc3f-15840e9790a9" />
+
+
+
 
  step 5
 - Wait For Processing
