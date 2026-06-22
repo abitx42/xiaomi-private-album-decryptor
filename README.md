@@ -63,8 +63,6 @@ step 2
 -once check for python version
 
 
-<img width="1531" height="975" alt="python ver" src="https://github.com/user-attachments/assets/0b9f8498-d7ec-40f6-987d-63485caed328" />
-
 <img width="926" height="597" alt="last" src="https://github.com/user-attachments/assets/cd45f8cb-9ce8-4835-8ab1-068325b49eef" />
 
 -get the zip file in computer
