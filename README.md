@@ -62,13 +62,18 @@ if not
 step 2 
 -once check for python version
 
+
 <img width="1531" height="975" alt="python ver" src="https://github.com/user-attachments/assets/7b9cc370-7ccc-426b-8b54-fc334fbf6ee1" />
 
 
 
 -get the zip file in computer
+-
+-
+
 
 <img width="1404" height="831" alt="filemanager" src="https://github.com/user-attachments/assets/92cb94c0-e0a4-497b-a1cc-d4b1a2e0768e" />
+
 
  -unzip file
 - it may show error if the fie size is large if it does
