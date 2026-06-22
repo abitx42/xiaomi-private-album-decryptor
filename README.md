@@ -81,14 +81,14 @@ Install Required Libraries<img width="922" height="612" alt="require " src="http
 Open Command Prompt inside the project folder.
 Run:
 pip install -r requirements.txt
-<img width="1237" height="690" alt="cmd after error" src="https://github.com/user-attachments/assets/14542999-3594-4a65-ab45-d7dcb1c4f472" />
+<img width="1237" height="707" alt="error" src="https://github.com/user-attachments/assets/535904d2-a091-4a54-be71-6f1762067d69" />
+
 
 if error occurs check whetther requirements.txt in present in same folder
 Expected output:
 Successfully installed pycryptodome filetype psutil
-<img width="1237" height="707" alt="error" src="https://github.com/user-attachments/assets/535904d2-a091-4a54-be71-6f1762067d69" />
 
-
+<img width="1237" height="690" alt="cmd after error" src="https://github.com/user-attachments/assets/14542999-3594-4a65-ab45-d7dcb1c4f472" />
 step 4
 <img width="1608" height="1045" alt="lsa files" src="https://github.com/user-attachments/assets/44751092-f6db-4709-960d-89c1b8a97182" />
 
