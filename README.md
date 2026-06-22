@@ -67,7 +67,7 @@ if not
 -
 
 
--once check for python version
+-Once check for python version
 -
 
 
@@ -75,7 +75,7 @@ if not
 
 
 
--get the zip file in computer
+-Get the zip file in computer
 -
 -
 
@@ -83,7 +83,7 @@ if not
 <img width="1404" height="831" alt="filemanager" src="https://github.com/user-attachments/assets/92cb94c0-e0a4-497b-a1cc-d4b1a2e0768e" />
 
 
- -unzip file
+ -Unzip file
  -
 - it may show error if the fie size is large if it does
 - try opening it with 7 zip application
@@ -93,9 +93,9 @@ if not
 
 -download the python file xiaomi_decrypt_adi_v1.0.0_github.
 
--step 3
+-Step 3
 -
--open cmd in targeted location
+-Open cmd in targeted location
 -
 
 -Install Required Libraries
@@ -119,11 +119,12 @@ if not
 <img width="1237" height="690" alt="cmd after error" src="https://github.com/user-attachments/assets/14542999-3594-4a65-ab45-d7dcb1c4f472" />
 
 
--step 4
+-Step 4
+-
 
 
 -Run The Script
--check once if lsa files are present in coreect path as displayed on cmd
+-Check once if lsa files are present in coreect path as displayed on cmd
 -
 
 
@@ -147,7 +148,7 @@ python xiaomi_decrypt_adi_v1.0.0_github.py "C:\Backup\secretAlbum"
 
 
 
- -step 5
+ -Step 5
  -
 -Wait For Processing
 -
@@ -175,7 +176,7 @@ Progress will appear in the terminal.
 
 <img width="973" height="726" alt="last 2" src="https://github.com/user-attachments/assets/6d2d6b65-2429-4abd-a7f8-349eea16b85b" />
 
--step 6
+-Step 6
 Check Results
 After completion, a new folder will be created:
 DECRYPTED
@@ -217,7 +218,7 @@ Fix: pip install pycryptodome
 Fix:
 pip install filetype
 
--name '_wait_for_ram' is not defined
+-Name '_wait_for_ram' is not defined
 -
 Fix:Use the latest GitHub release (v1.0.0 or newer).
 
