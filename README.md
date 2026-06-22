@@ -67,14 +67,13 @@ step 2
 
 -get the zip file in computer
 
-<img width="1452" height="1001" alt="7zip" src="https://github.com/user-attachments/assets/55c87e59-ee3a-480c-95ca-7576704531e0" />
 
+ <img width="1404" height="831" alt="filemanager" src="https://github.com/user-attachments/assets/e0f459dd-f81b-4403-85c1-24b414a07477" />
 
  -unzip file
 - it may show error if the fie size is big if it does
 - try opening it with 7 zip application
 
- <img width="1404" height="831" alt="filemanager" src="https://github.com/user-attachments/assets/e0f459dd-f81b-4403-85c1-24b414a07477" />
 -download the python file xiaomi_decrypt_adi_v1.0.0_github.
 
 step 3
