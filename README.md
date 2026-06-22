@@ -62,24 +62,30 @@ if not
 step 2 
 -once check for python version
 
+<img width="1531" height="975" alt="python ver" src="https://github.com/user-attachments/assets/7b9cc370-7ccc-426b-8b54-fc334fbf6ee1" />
 
-<img width="926" height="597" alt="last" src="https://github.com/user-attachments/assets/cd45f8cb-9ce8-4835-8ab1-068325b49eef" />
+
 
 -get the zip file in computer
 
-
- <img width="1404" height="831" alt="filemanager" src="https://github.com/user-attachments/assets/e0f459dd-f81b-4403-85c1-24b414a07477" />
+<img width="1404" height="831" alt="filemanager" src="https://github.com/user-attachments/assets/92cb94c0-e0a4-497b-a1cc-d4b1a2e0768e" />
 
  -unzip file
 - it may show error if the fie size is big if it does
 - try opening it with 7 zip application
+
+- <img width="1452" height="1001" alt="7zip" src="https://github.com/user-attachments/assets/af9f0eda-459e-465c-95de-35101b095627" />
+
 
 -download the python file xiaomi_decrypt_adi_v1.0.0_github.
 
 step 3
 -open cmd in targeted location
 
--Install Required Libraries<img width="922" height="612" alt="require " src="https://github.com/user-attachments/assets/d80aced5-11f0-4d45-9d93-ec12daf954f0" />
+-Install Required Libraries
+
+<img width="922" height="612" alt="require " src="https://github.com/user-attachments/assets/7b6f3d9e-00f8-48e3-8e91-07629ce16ba8" />
+
 
 -Open Command Prompt inside the project folder.
 -Run:
