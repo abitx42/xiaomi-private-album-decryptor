@@ -71,7 +71,7 @@ step 2
 <img width="1404" height="831" alt="filemanager" src="https://github.com/user-attachments/assets/92cb94c0-e0a4-497b-a1cc-d4b1a2e0768e" />
 
  -unzip file
-- it may show error if the fie size is big if it does
+- it may show error if the fie size is large if it does
 - try opening it with 7 zip application
 
 - <img width="1452" height="1001" alt="7zip" src="https://github.com/user-attachments/assets/af9f0eda-459e-465c-95de-35101b095627" />
