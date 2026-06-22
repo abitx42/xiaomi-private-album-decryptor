@@ -46,9 +46,13 @@ pip install -r requirements.txt
 Use only on backups and files you own or are authorized to recover.
 
 
-step by step process
+-step by step process
+-
 
-step 1
+
+-step 1
+-
+
 
 -Download the Repository
 -Download the project from GitHub:
@@ -59,8 +63,12 @@ generally present at
 if not 
 -just search .lsa in search of internal storage and get the location
 
-step 2 
+-step 2 
+-
+
+
 -once check for python version
+-
 
 
 <img width="1531" height="975" alt="python ver" src="https://github.com/user-attachments/assets/7b9cc370-7ccc-426b-8b54-fc334fbf6ee1" />
@@ -76,6 +84,7 @@ step 2
 
 
  -unzip file
+ -
 - it may show error if the fie size is large if it does
 - try opening it with 7 zip application
 
@@ -84,10 +93,13 @@ step 2
 
 -download the python file xiaomi_decrypt_adi_v1.0.0_github.
 
-step 3
+-step 3
+-
 -open cmd in targeted location
+-
 
 -Install Required Libraries
+-
 
 <img width="922" height="612" alt="require " src="https://github.com/user-attachments/assets/7b6f3d9e-00f8-48e3-8e91-07629ce16ba8" />
 
@@ -95,6 +107,7 @@ step 3
 -Open Command Prompt inside the project folder.
 -Run:
 -pip install -r requirements.txt
+-
 
 <img width="1237" height="707" alt="error" src="https://github.com/user-attachments/assets/535904d2-a091-4a54-be71-6f1762067d69" />
 
@@ -108,8 +121,10 @@ step 3
 
 -step 4
 
+
 -Run The Script
 -check once if lsa files are present in coreect path as displayed on cmd
+-
 
 
 <img width="1608" height="1045" alt="lsa files" src="https://github.com/user-attachments/assets/44751092-f6db-4709-960d-89c1b8a97182" />
@@ -121,6 +136,7 @@ step 3
 python xiaomi_decrypt_adi_v1.0.0_github.py "C:\Backup\secretAlbum"
 
 -Replace the path with your own backup location.
+-
 
 <img width="1177" height="744" alt="processing" src="https://github.com/user-attachments/assets/0eae681e-7bb1-4748-9ba7-f1edb1341595" />
 
@@ -131,8 +147,12 @@ python xiaomi_decrypt_adi_v1.0.0_github.py "C:\Backup\secretAlbum"
 
 
 
- step 5
-- Wait For Processing
+ -step 5
+ -
+-Wait For Processing
+-
+ 
+  
 
 - 
 <img width="973" height="726" alt="last 2" src="https://github.com/user-attachments/assets/bc0db975-542b-41b1-87c5-0bbabe805011" />
@@ -141,22 +161,25 @@ python xiaomi_decrypt_adi_v1.0.0_github.py "C:\Backup\secretAlbum"
 <img width="926" height="597" alt="last" src="https://github.com/user-attachments/assets/5d35e713-f52f-4776-a27d-4be5420bd224" />
 
 
-The script will automatically:
+-The script will automatically:
 ✅ Scan folders
 ✅ Detect .lsa and .lsav files
 ✅ Detect HDD or SSD
 ✅ Adjust memory usage
 ✅ Decrypt files
 ✅ Generate reports
+-
 
 Progress will appear in the terminal.
+-
 
 <img width="973" height="726" alt="last 2" src="https://github.com/user-attachments/assets/6d2d6b65-2429-4abd-a7f8-349eea16b85b" />
 
-step 6
+-step 6
 Check Results
 After completion, a new folder will be created:
 DECRYPTED
+-
 
 
 also tool genrates some files like
@@ -167,12 +190,13 @@ recovery_report.csv
 
 
 
-| File                  | Purpose                 |
+-| File                  | Purpose                 |
 | --------------------- | ----------------------- |
 | resume_state.jsonl    | Resume interrupted runs |
 | decrypt_log.txt       | Detailed log            |
 | recovery_summary.json | Summary statistics      |
 | recovery_report.csv   | Per-file results        |
+-
 
 
 
@@ -181,21 +205,27 @@ recovery_report.csv
 
 
 -ERRORS
+-
 
 
 -No module named Crypto
+-
 Fix: pip install pycryptodome
 
 -No module named filetype
+-
 Fix:
 pip install filetype
 
 -name '_wait_for_ram' is not defined
+-
 Fix:Use the latest GitHub release (v1.0.0 or newer).
 
 -Access denied
+-
 Fix:
 Run Command Prompt as Administrator.
 
 
 ------This tool is intended only for recovering backups and files you own or are authorized to access------
+-
